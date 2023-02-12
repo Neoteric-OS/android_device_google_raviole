@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-include device/google/raviole/BoardConfigAOSPA.mk
+include device/google/raviole/BoardConfigZEPH.mk
